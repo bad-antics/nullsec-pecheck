@@ -84,7 +84,7 @@ Findings:
 
 ## Author
 
-bad-antics | [Discord](https://x.com/AnonAntics)
+bad-antics | [Twitter](https://x.com/AnonAntics)
 
 ## License
 
